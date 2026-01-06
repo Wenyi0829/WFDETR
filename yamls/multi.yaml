@@ -1,0 +1,26 @@
+names:
+- good apple
+- bad apple
+- good banana
+- bad banana
+- good pear
+- bad pear
+- good orange
+- bad orange
+- good grape
+- bad grape
+- good watermelon
+- bad watermelon
+- good strawberry
+- bad strawberry
+- good mango
+- bad mango
+- good peach
+- bad peach
+- good pineapple
+- bad pineapple
+
+nc: 20
+path: ../multi_object
+train: ../train/images
+val: ../valid/images
